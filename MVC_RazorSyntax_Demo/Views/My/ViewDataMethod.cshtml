@@ -1,0 +1,27 @@
+ @{
+    ViewData["Title"] = "ViewData Method";
+}
+
+<h2>ViewData Method from my home Controller</h2>
+
+<p>Company Name: @ViewData["company"]</p>
+<p>Today is: @ViewData["today"]</p>
+
+<h3>Fruits List:</h3>
+@{
+    var fruitlist = ViewData["fruits"] as List<string>;
+    foreach (string f in fruitlist)
+    {
+        <p>@f</p>
+    }
+}
+
+<h3>Students List:</h3>
+@{
+    var studentlist = ViewData["students"] as List<Student>;
+    foreach (var s in studentlist)
+    {
+        <p>Id: @s.Id, Name: @s.Name, Marks: @s.Marks</p>
+    }
+}
+

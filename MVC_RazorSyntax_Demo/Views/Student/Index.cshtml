@@ -1,0 +1,21 @@
+ @model IEnumerable<MVC_RazorSyntax_Demo.Models.Student>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>&nbsp&nbsp
+            <th>Name</th>&nbsp&nbsp
+            <th>Marks</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>&nbsp&nbsp
+                <td>@item.Name</td>&nbsp&nbsp
+                <td>@item.Marks</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,75 @@
+    
+@{
+    var x = 10;
+    var y = 20;
+    var z = x + y;
+
+    decimal price = 35.50m;
+    int qty = 10;
+    decimal Amount = price * qty;
+
+    int age = 20; // Initialize age here
+    string color = "red";
+    if (Amount >= 100)
+    {
+        color = "green";
+    }
+      <h2>The amount is <span style="color:@color">@Amount</span></h2>
+}
+
+<p>The amount is @Amount</p>
+
+<p>x + y = @z</p>
+<p>price * qty = @Amount</p>
+
+@if (age >= 18)
+{
+    <p>You are eligible for voting</p>
+}
+else
+{
+    <p>You are not eligible for voting</p>
+}
+
+<p>Numbers from 1 to 10:</p>
+@for (int i = 1; i <= 10; i++)
+{
+    <p>@i</p>
+}
+
+@* Example value, you can change this to test different days *@
+@{
+    int dayOfWeek = 3; 
+    string dayName;
+
+    switch (dayOfWeek)
+    {
+        case 1:
+            dayName = "Monday";
+            break;
+        case 2:
+            dayName = "Tuesday";
+            break;
+        case 3:
+            dayName = "Wednesday";
+            break;
+        case 4:
+            dayName = "Thursday";
+            break;
+        case 5:
+            dayName = "Friday";
+            break;
+        case 6:
+            dayName = "Saturday";
+            break;
+        case 7:
+            dayName = "Sunday";
+            break;
+        default:
+            dayName = "Invalid day";
+            break;
+    }
+}
+
+<p>Day of the week: @dayName</p>
+```

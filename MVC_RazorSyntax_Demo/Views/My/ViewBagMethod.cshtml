@@ -1,0 +1,26 @@
+
+
+<h2>ViewBag Method from MyController</h2>
+
+<p>Developer Name: @ViewBag.developername</p>
+<p>Today is: @ViewBag.today</p>
+
+<h3>Fruits List:</h3>
+@{
+    var fruitlist = ViewBag.fruitlist as List<string>;
+    @foreach (string fruit in fruitlist)
+    { 
+        <li>
+        @fruit
+        </li>
+    }
+}
+
+<h3>Students List:</h3>
+@{
+    var studentlist = ViewBag.Studentlist as List<Student>;
+    @foreach (var student in studentlist)
+    {
+        <p>Id: @student.Id, &nbsp Name: @student.Name,  &nbsp Marks: @student.Marks</p>
+    }
+}

@@ -1,0 +1,11 @@
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.csproj.AssemblyReference.cache
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.dll.config
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.AssemblyInfoInputs.cache
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.AssemblyInfo.cs
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.csproj.CoreCompileInputs.cache
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.RazorAssemblyInfo.cache
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.RazorAssemblyInfo.cs
+D:\DotNet\DotnetMVC\MyMVCDemo\obj\Debug\net5.0\MyMVCDemo.sourcelink.json

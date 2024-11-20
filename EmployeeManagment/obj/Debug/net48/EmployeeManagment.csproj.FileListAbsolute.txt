@@ -1,0 +1,6 @@
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net48\EmployeeManagment.csproj.AssemblyReference.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net48\EmployeeManagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net48\EmployeeManagment.AssemblyInfoInputs.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net48\EmployeeManagment.AssemblyInfo.cs
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net48\EmployeeManagment.csproj.CoreCompileInputs.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net48\EmployeeManagment.sourcelink.json

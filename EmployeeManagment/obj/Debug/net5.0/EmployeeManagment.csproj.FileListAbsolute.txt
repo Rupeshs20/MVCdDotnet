@@ -1,0 +1,8 @@
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.AssemblyInfoInputs.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.AssemblyInfo.cs
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.csproj.CoreCompileInputs.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.RazorAssemblyInfo.cache
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.RazorAssemblyInfo.cs
+D:\DotNet\DotnetMVC\EmployeeManagment\obj\Debug\net5.0\EmployeeManagment.sourcelink.json

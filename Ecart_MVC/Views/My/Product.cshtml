@@ -1,0 +1,27 @@
+ @model List<Ecart_MVC.Models.Product>
+
+<h2>Product List</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProdId</td>
+                <td>@product.ProdName</td>
+                <td>@product.ProdDesc</td>
+                <td>@product.ProdPrice</td>
+                <td>@product.ProdType</td>
+            </tr>
+        }
+    </tbody>
+</table>
